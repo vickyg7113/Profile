@@ -110,6 +110,7 @@
 <img id="hobby" src="football.png">
 <img id="hobby" src="music.jpeg">
  <img id="hobby" src="movies.jpeg">
+ <img id="hobby" src="drawing.jpeg">
 </div>
 </body>
   </html>
