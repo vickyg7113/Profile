@@ -40,6 +40,10 @@ table{
   width:100%;
   text-align:center;
 }
+#ctable
+{
+ width:300px;
+ }
 #ficon
 {
   height:20px;
