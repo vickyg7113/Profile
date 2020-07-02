@@ -40,7 +40,7 @@
     </tbody> 
    </table> 
    <p><b style="margin-left:20px;font-size:150%;"><u>CONTACT</u></b></p> 
-   <table border="1" cellpadding="60px"> 
+   <table border="1" cellpadding="20px"> 
     <tbody> 
      <tr> 
       <th><u>PHONE</u></th> 
