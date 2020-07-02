@@ -1,8 +1,9 @@
 <!doctype html>
 <html>
- <head> 
+ head> 
   <link rel="stylesheet" type="text/css" href="style.css">
- </head> 
+ 
+</head> 
  <body> 
   <div id="head"> 
    <h1 style="text-decoration: underline;">My Profile</h1> 
