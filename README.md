@@ -66,7 +66,7 @@
  <table class="etable" border="1" cellpadding="20px"> 
     <tbody> 
      <tr> 
-      <th>Education</th> 
+      <th style="width=200px;">Education</th> 
       <th>Institute</th> 
       <th>GPA</th> 
      </tr> 
