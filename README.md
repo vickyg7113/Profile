@@ -66,8 +66,8 @@
  <table class="etable" border="1" cellpadding="20px"> 
     <tbody> 
      <tr> 
-      <th style="width:500px;">Education</th> 
-      <th style="width:500px">Institute</th> 
+      <th style="width:200px;">Education</th> 
+      <th style="width:200px">Institute</th> 
       <th>GPA</th> 
      </tr> 
      <tr> 
