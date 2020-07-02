@@ -61,6 +61,10 @@
    <a href="https://github.com/vickyg7113"><img id="gicon" src="github.png"> </a> 
    <a href="https://gmail.com"><img id="gmicon" src="gmail.png"> </a> 
   </div> 
+ <div id="tablea"> 
+   <h2><u>Education</u>:</h2> 
+  </div>
+  
   </body>
   </html>
      
