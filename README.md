@@ -63,7 +63,7 @@
   </div> 
  <div id="tablea"> 
    <h2><u>Education</u>:</h2> 
- <table class="etable" border="2px" cellpadding="20px"> 
+ <table class="etable" border="1" cellpadding="20px"> 
     <tbody> 
      <tr> 
       <th style="width:200px;">Education</th> 
