@@ -116,6 +116,8 @@
 <div id="footer"> 
    <h1>©All copy rights are reserved.</h1> 
   </div> 
+<script src="javascript.js">
+ </script>
 </body>
   </html>
      
