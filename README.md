@@ -109,6 +109,7 @@
  <p style="font-size:200%;margin-left:10px;"><b><u>Hobbies</u>:-</b></p>
 <img id="hobby" src="football.png">
 <img id="hobby" src="music.jpeg">
+ <img id="hobby" src="movies.jpeg">
 </div>
 </body>
   </html>
