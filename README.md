@@ -88,6 +88,13 @@
     </tbody> 
    </table> 
   <p style="font-size:150%"><b><u>Technical Skills</u>:</b></p>
+ <ul> 
+    <li>C</li> 
+    <li>HTML</li> 
+    <li>CSS</li> 
+    <li>Javascript</li> 
+    <li>jQuery</li> 
+   </ul>
  </div>
   
   </body>
