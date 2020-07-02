@@ -113,6 +113,9 @@
  <img id="hobby" src="drawing.jpeg">
 <img id="hobby" src="book.jpeg">
 </div>
+<div id="footer"> 
+   <h1>©All copy rights are reserved</h1> 
+  </div> 
 </body>
   </html>
      
