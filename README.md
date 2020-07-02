@@ -61,14 +61,11 @@
    <a href="https://github.com/vickyg7113"><img id="gicon" src="github.png"> </a> 
    <a href="https://gmail.com"><img id="gmicon" src="gmail.png"> </a> 
   </div> 
-  
+  </body>
+  </html>
      
      
     
-  src="book.jpeg"> 
-  </div> 
-  <div id="footer"> 
-   <h1>©All copy rights are reserved</h1> 
-  </div> 
- </body>
-</html>
+
+
+
