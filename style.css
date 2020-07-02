@@ -69,7 +69,7 @@ table{
  
 }
 .etable{
-  border:1px black;
+  border:1px solid black;
   border-spacing:0;
   width:600px;
   text-align:center;
