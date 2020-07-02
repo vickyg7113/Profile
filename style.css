@@ -87,8 +87,11 @@ ul{
   font-family:Times New Roman;
   border-radius:10px;
   padding:10px;
-  background-color:yellow;
+
 }
+#text:hover{
+ background-color:yellow;
+ }
 i
 {
   color:red;
@@ -108,8 +111,11 @@ iframe{
   line-height:50px;
   font-family:Times New Roman;
   border-radius:10px;
- background-color:yellow;
+
 }
+#about:hover{
+ background-color:yellow;
+ }
 #hobby{
   height:100px;
   width:100px;
