@@ -87,6 +87,7 @@
      </tr> 
     </tbody> 
    </table> 
+  <p style="font-size:150%"><b><u>Technical Skills</u>:</b></p>
  </div>
   
   </body>
