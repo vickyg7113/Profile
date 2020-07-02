@@ -67,7 +67,7 @@
     <tbody> 
      <tr> 
       <th style="width:200px;">Education</th> 
-      <th style="width:400px;">Institute</th> 
+      <th style="width:300px;">Institute</th> 
       <th style="width:100px;">GPA</th> 
      </tr> 
      <tr> 
