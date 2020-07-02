@@ -96,7 +96,11 @@
     <li>jQuery</li> 
    </ul>
   <p style="font-size:150%"><b><u>My Small Projects</u>:</b></p>
- </div>
+<ul> 
+    <li> <p id="text"><b>My room static website:</b> &nbsp;&nbsp;&nbsp; <a id="anc" href="https://vickyg7113.github.io/Comrades/"><i>Click here to view</i></a> </p> </li> 
+    <li> <p id="text"><b>My Gallery:</b> &nbsp;&nbsp;&nbsp; <a id="anc" href="https://vickyg7113.github.io/Comrades/vimg.html"><i style="padding-left:145px">Click here to view</i></a></p> </li> 
+   </ul> 
+</div>
   
   </body>
   </html>
