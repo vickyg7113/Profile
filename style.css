@@ -104,7 +104,7 @@ iframe{
 }
 #about{
   font-size:200%;
-  box-shadow:inset 0px 0px 8px black;
+  box-shadow:inset 0px 0px 10px white;
   height:100px;
   text-align:center;
   line-height:50px;
