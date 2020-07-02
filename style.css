@@ -1,4 +1,6 @@
- 
+body{
+ background-color:#7df9ff;
+ }
 #head{
   box-shadow:0px 8px 8px 0px black;
   background-color:grey;
@@ -85,7 +87,7 @@ ul{
   font-family:Times New Roman;
   border-radius:10px;
   padding:10px;
-  
+  background-color:yellow;
 }
 i
 {
@@ -106,6 +108,7 @@ iframe{
   line-height:50px;
   font-family:Times New Roman;
   border-radius:10px;
+ background-color:yellow;
 }
 #hobby{
   height:100px;
@@ -113,8 +116,11 @@ iframe{
  margin-left:70px;
   border:2px solid black;
   display:inline-block;
-  
+  transition:1s;
   }
+#hobby:hover{
+ border-radius:50%;
+ }
 #footer
 {
   text-align: center;
