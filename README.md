@@ -12,7 +12,7 @@
    </div> 
   </div> 
   <div id="img"> 
-   <img id="mypic" src="vamshi/temp.jpg"> 
+   <img id="mypic" src="temp.jpg"> 
    <p><b style="margin-left:20px;font-size:150%;"><u>PERSONAL</u></b></p> 
    <table border="1" cellpadding="10px"> 
     <tbody> 
@@ -107,11 +107,11 @@
   <p id="about"><b>I am Vamshi studying Computer Science Engineering at <br> JNTU College Of Engineering Pulivendula.<br></b></p> 
   <div> 
    <p style="font-size:200%;margin-left:10px;"><b><u>Hobbies</u>:-</b></p> 
-   <img id="hobby" src="vamshi/football.png"> 
-   <img id="hobby" src="vamshi/music.jpeg"> 
-   <img id="hobby" src="vamshi/movies.jpeg"> 
-   <img id="hobby" src="vamshi/drawing.jpeg"> 
-   <img id="hobby" src="vamshi/book.jpeg"> 
+   <img id="hobby" src="football.png"> 
+   <img id="hobby" src="music.jpeg"> 
+   <img id="hobby" src="movies.jpeg"> 
+   <img id="hobby" src="drawing.jpeg"> 
+   <img id="hobby" src="book.jpeg"> 
   </div> 
   <div id="footer"> 
    <h1>©All copy rights are reserved</h1> 
