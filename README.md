@@ -72,7 +72,7 @@
      </tr> 
      <tr> 
       <td>SSC</td> 
-      <td>Montessori High School</td> 
+      <td>Montessori &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;High School</td> 
       <td>9.8</td> 
      </tr> 
      <tr> 
