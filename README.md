@@ -103,7 +103,7 @@
 <p style="font-size:150%"><b><u>How to host website in GitHub</u>:</b></p>
 <iframe width="300px" height="150px" src="https://www.youtube.com/embed/BA_c3bGQXlQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe> 
 </div>
-  
+ <p style="font-size:200%;margin-left:10px;"><b><u>About Me</u>:-</b></p>
   </body>
   </html>
      
