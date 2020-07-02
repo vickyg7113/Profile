@@ -1,6 +1,6 @@
-<!doctype html>
+
 <html>
- head> 
+ <head> 
   <link rel="stylesheet" type="text/css" href="style.css">
  
 </head> 
