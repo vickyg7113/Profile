@@ -63,7 +63,31 @@
   </div> 
  <div id="tablea"> 
    <h2><u>Education</u>:</h2> 
-  </div>
+ <table class="etable" border="1" cellpadding="20px"> 
+    <tbody> 
+     <tr> 
+      <th>Education</th> 
+      <th>Institute</th> 
+      <th>GPA</th> 
+     </tr> 
+     <tr> 
+      <td>SSC</td> 
+      <td>Montessori High School</td> 
+      <td>9.8</td> 
+     </tr> 
+     <tr> 
+      <td>Intermediate</td> 
+      <td>Narayana Junior college</td> 
+      <td>960</td> 
+     </tr> 
+     <tr> 
+      <td>B-Tech</td> 
+      <td>JNTUACEP</td> 
+      <td>8.5</td> 
+     </tr> 
+    </tbody> 
+   </table> 
+ </div>
   
   </body>
   </html>
