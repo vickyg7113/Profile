@@ -61,58 +61,11 @@
    <a href="https://github.com/vickyg7113"><img id="gicon" src="github.png"> </a> 
    <a href="https://gmail.com"><img id="gmicon" src="gmail.png"> </a> 
   </div> 
-  <div id="tablea"> 
-   <h2><u>Education</u>:</h2> 
-   <table class="etable" border="1" cellpadding="20px"> 
-    <tbody> 
-     <tr> 
-      <th>Education</th> 
-      <th>Institute</th> 
-      <th>GPA</th> 
-     </tr> 
-     <tr> 
-      <td>SSC</td> 
-      <td>Montessori High School</td> 
-      <td>9.8</td> 
-     </tr> 
-     <tr> 
-      <td>Intermediate</td> 
-      <td>Narayana Junior college</td> 
-      <td>960</td> 
-     </tr> 
-     <tr> 
-      <td>B-Tech</td> 
-      <td>JNTUACEP</td> 
-      <td>8.5</td> 
-     </tr> 
-    </tbody> 
-   </table> 
-   <p style="font-size:150%"><b><u>Technical Skills</u>:</b></p> 
-   <ul> 
-    <li>C</li> 
-    <li>HTML</li> 
-    <li>CSS</li> 
-    <li>Javascript</li> 
-    <li>jQuery</li> 
-   </ul> 
-   <p style="font-size:150%"><b><u>My Small Projects</u>:</b></p> 
-   <ul> 
-    <li> <p id="text"><b>My room static website:</b> &nbsp&nbsp&nbsp
-    <i>Click here to view</i> </p> </li> 
-    <li> <p id="text"><b>My Gallery:</b> &nbsp&nbsp&nbsp<i style="padding-left:145px">Click here to view</i> </p> </li> 
-   </ul> 
-   <p style="font-size:150%"><b><u>How to host website in GitHub</u>:</b></p> 
-   <iframe width="300px" height="150px" src="https://www.youtube.com/embed/BA_c3bGQXlQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe> 
-  </div> 
-  <p style="font-size:200%;margin-left:10px;"><b><u>About Me</u>:-</b></p> 
-  <p id="about"><b>I am Vamshi studying Computer Science Engineering at <br> JNTU College Of Engineering Pulivendula.<br></b></p> 
-  <div> 
-   <p style="font-size:200%;margin-left:10px;"><b><u>Hobbies</u>:-</b></p> 
-   <img id="hobby" src="football.png"> 
-   <img id="hobby" src="music.jpeg"> 
-   <img id="hobby" src="movies.jpeg"> 
-   <img id="hobby" src="drawing.jpeg"> 
-   <img id="hobby" src="book.jpeg"> 
+  
+     
+     
+    
+  src="book.jpeg"> 
   </div> 
   <div id="footer"> 
    <h1>©All copy rights are reserved</h1> 
