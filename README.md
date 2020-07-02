@@ -40,7 +40,7 @@
     </tbody> 
    </table> 
    <p><b style="margin-left:20px;font-size:150%;"><u>CONTACT</u></b></p> 
-   <table id="ctable" border="1" cellpadding="20px"> 
+   <table border="1" cellpadding="50px"> 
     <tbody> 
      <tr> 
       <th><u>PHONE</u></th> 
@@ -52,7 +52,7 @@
      </tr> 
      <tr> 
       <th><u>Address</u></th> 
-      <th>6/184,Nesepeta,<br>Peapully<br>Kurnool District<br>Andhra Pradesh<br>518221</th> 
+      <th><p>6/184,Nesepeta,Peapully,Kurnool District,Andhra Pradesh,518221</p></th> 
      </tr> 
     </tbody> 
    </table> 
