@@ -67,8 +67,8 @@
     <tbody> 
      <tr> 
       <th style="width:200px;">Education</th> 
-      <th style="width:200px">Institute</th> 
-      <th>GPA</th> 
+      <th style="width:500px;">Institute</th> 
+      <th style="width:150px;">GPA</th> 
      </tr> 
      <tr> 
       <td>SSC</td> 
