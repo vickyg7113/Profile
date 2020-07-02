@@ -52,7 +52,7 @@
      </tr> 
      <tr> 
       <th><u>Address</u></th> 
-      <th>6/184,Nesepeta,&nbsp&nbsp<br>Peapully<br>Kurnool District<br>Andhra Pradesh<br>518221</th> 
+      <th>6/184,Nesepeta,<br>Peapully<br>Kurnool District<br>Andhra Pradesh<br>518221</th> 
      </tr> 
     </tbody> 
    </table> 
