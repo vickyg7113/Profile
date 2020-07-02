@@ -37,12 +37,12 @@
 table{
   border:1px black;
   border-spacing:0;
-  width:700px;
+  width:300px;
   text-align:center;
 }
 #ctable
 {
- width:700px;
+ width:300px;
  }
 #ficon
 {
