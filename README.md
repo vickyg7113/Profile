@@ -105,7 +105,10 @@
 </div>
  <p style="font-size:200%;margin-left:10px;"><b><u>About Me</u>:-</b></p>
  <p id="about"><b>I am Vamshi studying Computer Science Engineering at <br> JNTU College Of Engineering Pulivendula.<br></b></p>
- </body>
+<div>
+ 
+</div>
+</body>
   </html>
      
      
