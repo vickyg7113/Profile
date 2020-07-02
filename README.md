@@ -95,6 +95,7 @@
     <li>Javascript</li> 
     <li>jQuery</li> 
    </ul>
+  <p style="font-size:150%"><b><u>My Small Projects</u>:</b></p>
  </div>
   
   </body>
