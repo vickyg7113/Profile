@@ -59,7 +59,7 @@
    <p><b style="margin-left:20px;font-size:150%;"><u>Links</u></b></p> 
    <a href="https://www.facebook.com/vamshi.gujjuboina"><img id="ficon" src="facebook.png"> </a> 
    <a href="https://github.com/vickyg7113"><img id="ficon" src="github.png"> </a> 
-   <a href="mailto: vicky517816@gmail.com"><img id="ficon" src="gmail.png"> </a> 
+   <a href="mailto: vv517816@gmail.com"><img id="ficon" src="gmail.png"> </a> 
   </div> 
  <div id="tablea"> 
    <h2><u>Education</u>:</h2> 
