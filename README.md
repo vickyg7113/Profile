@@ -100,7 +100,7 @@
     <li> <p id="text"><b>My room static website:</b> &nbsp;&nbsp;&nbsp; <a id="anc" href="https://vickyg7113.github.io/Comrades/"><i>Click here to view</i></a> </p> </li> 
  <li> <p id="text"><b>My Gallery:</b> &nbsp;&nbsp;&nbsp; <a id="anc" href="https://vickyg7113.github.io/Comrades/vimg.html"><i style="padding-left:145px;color:cyan;">Click here to view</i></a></p> </li> 
 </ul> 
-<p style="font-size:150%"><b><u>How to host website in GitHub</u>:</b></p>
+<p style="font-size:150%;color:yellow;"><b><u>How to host website in GitHub</u>:</b></p>
 <iframe width="300px" height="150px" src="https://www.youtube.com/embed/BA_c3bGQXlQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe> 
 </div>
  <p style="font-size:200%;margin-left:10px;"><b><u>About Me</u>:-</b></p>
