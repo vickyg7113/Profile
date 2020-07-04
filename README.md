@@ -14,7 +14,7 @@
   </div> 
   <div id="img"> 
    <img id="mypic" src="temp.jpg"> 
-   <p><b style="margin-left:20px;font-size:150%;"><u>PERSONAL</u></b></p> 
+   <p><b style="margin-left:20px;font-size:150%;color:yellow;"><u>PERSONAL</u></b></p> 
    <table border="1" cellpadding="10px"> 
     <tbody> 
      <tr> 
@@ -39,7 +39,7 @@
      </tr> 
     </tbody> 
    </table> 
-   <p><b style="margin-left:20px;font-size:150%;"><u>CONTACT</u></b></p> 
+   <p><b style="margin-left:20px;font-size:150%;color:yellow;"><u>CONTACT</u></b></p> 
    <table border="1" cellpadding="20px"> 
     <tbody> 
      <tr> 
@@ -56,7 +56,7 @@
      </tr> 
     </tbody> 
    </table> 
-   <p><b style="margin-left:20px;font-size:150%;"><u>Links</u></b></p> 
+   <p><b style="margin-left:20px;font-size:150%;color:yellow;"><u>Links</u></b></p> 
    <a href="https://www.facebook.com/vamshi.gujjuboina"><img id="ficon" src="facebook.png"> </a> 
    <a href="https://github.com/vickyg7113"><img id="ficon" src="github.png"> </a> 
    <a href="mailto: vv517816@gmail.com"><img id="ficon" src="gmail.png"> </a> 
@@ -95,8 +95,8 @@
     <li>Javascript</li> 
     <li>jQuery</li> 
    </ul>
-  <p style="font-size:150%"><b><u>My Small Projects</u>:</b></p>
-<ul> 
+  <p style="font-size:150%;color:yellow;"><b><u>My Small Projects</u>:</b></p>
+<ul id="l1"> 
     <li> <p id="text"><b>My room static website:</b> &nbsp;&nbsp;&nbsp; <a id="anc" href="https://vickyg7113.github.io/Comrades/"><i>Click here to view</i></a> </p> </li> 
  <li> <p id="text"><b>My Gallery:</b> &nbsp;&nbsp;&nbsp; <a id="anc" href="https://vickyg7113.github.io/Comrades/vimg.html"><i style="padding-left:145px;color:cyan;">Click here to view</i></a></p> </li> 
 </ul> 
