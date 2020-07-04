@@ -103,10 +103,10 @@
 <p style="font-size:150%;color:yellow;"><b><u>How to host website in GitHub</u>:</b></p>
 <iframe width="300px" height="150px" src="https://www.youtube.com/embed/BA_c3bGQXlQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe> 
 </div>
- <p style="font-size:200%;margin-left:10px;"><b><u>About Me</u>:-</b></p>
+ <p style="font-size:200%;margin-left:10px;color:yellow;"><b><u>About Me</u>:-</b></p>
  <p id="about"><b>I am Vamshi studying Computer Science Engineering at <br> JNTU College Of Engineering Pulivendula.<br></b></p>
 <div>
- <p style="font-size:200%;margin-left:10px;"><b><u>Hobbies</u>:-</b></p>
+ <p style="font-size:200%;margin-left:10px;color:yellow;"><b><u>Hobbies</u>:-</b></p>
 <img id="hobby" src="football.png">
 <img id="hobby" src="music.jpeg">
  <img id="hobby" src="movies.jpeg">
