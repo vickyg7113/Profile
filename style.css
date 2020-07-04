@@ -90,6 +90,7 @@ ul{
 }
 #text:hover{
  background-color:yellow;
+ color:black;
  }
 #l1{
  color:white;
